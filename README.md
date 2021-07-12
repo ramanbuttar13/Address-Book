@@ -13,3 +13,4 @@
 - Redux integration
 - Responsiveness
 - Detail View page
+- Testing
