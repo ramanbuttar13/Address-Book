@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+Array [
+  <div
+    className="sc-bdnxRM dQyMqc"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <p
+        className="chakra-text css-u5d0r8"
+      >
+        Nuvalence
+      </p>
+    </a>
+  </div>,
+  <div
+    className="css-1c5ij41"
+  >
+    <p
+      className="chakra-text css-1xlzx9v"
+    >
+      Oops! something went wrong.
+    </p>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <button
+        className="chakra-button css-5c2176"
+        type="button"
+      >
+        Go Back to Homepage
+      </button>
+    </a>
+  </div>,
+  <div
+    className="sc-gtsrHT fYTXOB"
+  >
+    Made by: Raman Buttar
+  </div>,
+]
+`;
+
+exports[`Should run User Details snapshot test 1`] = `
+Array [
+  <div
+    className="sc-bdnxRM dQyMqc"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <p
+        className="chakra-text css-u5d0r8"
+      >
+        Nuvalence
+      </p>
+    </a>
+  </div>,
+  <div
+    className="css-1c5ij41"
+  >
+    <p
+      className="chakra-text css-1xlzx9v"
+    >
+      Oops! something went wrong.
+    </p>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <button
+        className="chakra-button css-5c2176"
+        type="button"
+      >
+        Go Back to Homepage
+      </button>
+    </a>
+  </div>,
+  <div
+    className="sc-gtsrHT fYTXOB"
+  >
+    Made by: Raman Buttar
+  </div>,
+]
+`;

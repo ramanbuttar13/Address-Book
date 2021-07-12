@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+Array [
+  <div
+    className="sc-bdnxRM dQyMqc"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <p
+        className="chakra-text css-u5d0r8"
+      >
+        Nuvalence
+      </p>
+    </a>
+  </div>,
+  <div
+    className="css-7jxdnf"
+  >
+    <div
+      className="css-xfzck9"
+    >
+      <div
+        className="css-1kuzq9e"
+        onClick={[Function]}
+      >
+        <div
+          className="css-4rtm51"
+        >
+          <div
+            className="sc-hKFxyN hrmyIa"
+          >
+            <img
+              alt="User Image"
+              className="sc-eCApnc gEALbh"
+              src="https://randomuser.me/api/portraits/thumb/men/29.jpg"
+            />
+          </div>
+        </div>
+        <div
+          className="css-1ndeasw"
+        >
+          <p
+            className="chakra-text css-0"
+          >
+             
+            Mr
+             
+            Dylan
+             
+            Little
+          </p>
+        </div>
+        <div
+          className="css-kl1xo3"
+        >
+          <p
+            className="chakra-text css-in3yi3"
+          >
+            From:  
+          </p>
+          <p
+            className="chakra-text css-0"
+          >
+            Dubbo
+            , 
+            Australia
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-17772hy"
+    >
+      <button
+        className="chakra-button sc-dlnjwi hjeePS css-1tqq67r"
+        onClick={[Function]}
+        type="button"
+      >
+        Show more
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-gtsrHT fYTXOB"
+  >
+    Made by: Raman Buttar
+  </div>,
+]
+`;
+
+exports[`Should run Homepage snapshot test 1`] = `
+Array [
+  <div
+    className="sc-bdnxRM dQyMqc"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <p
+        className="chakra-text css-u5d0r8"
+      >
+        Nuvalence
+      </p>
+    </a>
+  </div>,
+  <div
+    className="css-7jxdnf"
+  >
+    <div
+      className="css-xfzck9"
+    >
+      <div
+        className="css-1kuzq9e"
+        onClick={[Function]}
+      >
+        <div
+          className="css-4rtm51"
+        >
+          <div
+            className="sc-hKFxyN hrmyIa"
+          >
+            <img
+              alt="User Image"
+              className="sc-eCApnc gEALbh"
+              src="https://randomuser.me/api/portraits/thumb/men/29.jpg"
+            />
+          </div>
+        </div>
+        <div
+          className="css-1ndeasw"
+        >
+          <p
+            className="chakra-text css-0"
+          >
+             
+            Mr
+             
+            Dylan
+             
+            Little
+          </p>
+        </div>
+        <div
+          className="css-kl1xo3"
+        >
+          <p
+            className="chakra-text css-in3yi3"
+          >
+            From:  
+          </p>
+          <p
+            className="chakra-text css-0"
+          >
+            Dubbo
+            , 
+            Australia
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="css-17772hy"
+    >
+      <button
+        className="chakra-button sc-dlnjwi hjeePS css-1tqq67r"
+        onClick={[Function]}
+        type="button"
+      >
+        Show more
+      </button>
+    </div>
+  </div>,
+  <div
+    className="sc-gtsrHT fYTXOB"
+  >
+    Made by: Raman Buttar
+  </div>,
+]
+`;
