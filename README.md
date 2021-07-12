@@ -7,6 +7,10 @@
 - Create .env.development file at Project root and paste: `REACT_APP_API_URL='https://randomuser.me/api/'`
 - Start your local server: `npm start`
 
+## How To Run Tests
+
+`npm test`
+
 ## What all has been done:
 
 - React app showing the randomuser.me api data
