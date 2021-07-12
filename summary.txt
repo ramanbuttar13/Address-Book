@@ -1,0 +1,4 @@
+Project Summary:
+
+Hi Team,
+This is a small Address Book application build with react. You can find two views in the application, namely Homage and Userdetails. The address book will call the randomuser api service for the first time when user lands on that page and fetch 10 users which are then stored in the redux store. You can also find 'show more' button on the homepage which enables the user to fetch paginated data. Second view is the userDetails view which shows details of a specific user.
